@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Diwakar Verma</h1>
 <h3 align="center">A aspiring Developer.</h3>
-<image align="right" alt="Coding" width = "400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diwakarvermaa&label=Profile%20views&color=0e75b6&style=flat" alt="diwakarvermaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diwakarvermaa" alt="diwakarvermaa" /></a> </p>
