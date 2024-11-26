@@ -1,5 +1,4 @@
-## Hi there 👋
-![Welcome to My Profile](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
+
 <h1 align="center">Hi 👋, I'm Diwakar Verma</h1>
 <h3 align="center">A aspiring Developer.</h3>
 <image align="right" alt="Coding" width = "400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
