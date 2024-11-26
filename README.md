@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm I'm Diwakar Verma!</h1>
+<h1 align="center">Hey there 👋, I'm Diwakar Verma!</h1>
 <h3 align="center">A aspiring Developer.</h3>
 <img align="right" alt="coding" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif">
 <p align="left"> <a href="https://twitter.com/divakrrrr" target="blank"><img src="https://img.shields.io/twitter/follow/divakrrrr?logo=twitter&style=for-the-badge" alt="divakrrrr" /></a> </p>
