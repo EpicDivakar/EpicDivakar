@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm I'm Diwakar Verma!</h1>
+<h1 align="center">Hey there 👋, I'm Diwakar Verma!</h1>
 <h3 align="center">A aspiring Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=epicdivakar&label=Profile%20views&color=0e75b6&style=flat" alt="epicdivakar" /> </p>
