@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📝 I regularly write articles on [https://dev.to/dashboard](https://dev.to/dashboard)
 
-- 💬 Ask me about **Html , CSS , Bootstrap , Tailwind CSS and Javascript**
+
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **diwakarverma737@gmail.com**
 
