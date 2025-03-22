@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Diwakar Verma!</h1>
 <h3 align="center">A aspiring Developer.</h3>
-<img align="right" alt = "Coding Image" width = "400px" src= "![image](https://github.com/user-attachments/assets/6b189609-05ab-4cc3-971b-73a33e2c3781)">
+<img align="right" alt = "Coding Image" width = "400px" src= "(https://github.com/user-attachments/assets/6b189609-05ab-4cc3-971b-73a33e2c3781)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=epicdivakar&label=Profile%20views&color=0e75b6&style=flat" alt="epicdivakar" /> </p>
 
